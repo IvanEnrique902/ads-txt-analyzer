@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller (el .exe se sube en "Releases", no al repositorio)
+build/
+dist/
+*.spec
+*.exe
+
+# Archivos generados por el programa
+*_reporte.txt
+*_plataformas.csv
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
