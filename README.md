@@ -15,14 +15,6 @@ DIRECT vs RESELLER, duplicados, conflictos, plataformas y verificación contra `
 
 ---
 
-## 📸 Vista previa
-
-> 👉 Sacale una captura a la ventana con resultados, guardala como `captura.png` en esta carpeta y descomentá la línea de abajo.
-
-<!-- ![Captura de la aplicación](captura.png) -->
-
----
-
 ## 🤔 ¿Qué problema resuelve?
 
 En programática, el archivo **ads.txt** (y **app-ads.txt** para apps) es la lista pública de quién está autorizado a vender el inventario de un sitio. Cada línea tiene este formato:
